@@ -1,0 +1,17 @@
+[
+    { "date": "1914-07-28", "event": "Start of World War I" },
+    { "date": "1918-11-11", "event": "End of World War I" },
+    { "date": "1939-09-01", "event": "Start of World War II" },
+    { "date": "1945-09-02", "event": "End of World War II" },
+    { "date": "1947-08-15", "event": "India Gains Independence from Britain" },
+    { "date": "1961-08-13", "event": "Construction of the Berlin Wall Begins" },
+    { "date": "1962-10-16", "event": "Start of the Cuban Missile Crisis" },
+    { "date": "1969-07-20", "event": "Apollo 11 Moon Landing" },
+    { "date": "1989-11-09", "event": "Fall of the Berlin Wall" },
+    { "date": "1991-12-26", "event": "Dissolution of the Soviet Union" },
+    { "date": "2001-09-11", "event": "9/11 Terrorist Attacks in the United States" },
+    { "date": "2008-08-08", "event": "Beijing Hosts the Summer Olympics" },
+    { "date": "2011-12-17", "event": "Start of the Arab Spring" },
+    { "date": "2020-03-11", "event": "WHO Declares COVID-19 a Pandemic" }
+  ]
+  

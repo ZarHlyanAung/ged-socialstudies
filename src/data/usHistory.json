@@ -1,0 +1,20 @@
+[
+    { "date": "1776-07-04", "event": "Declaration of Independence" },
+    { "date": "1787-09-17", "event": "Signing of the US Constitution" },
+    { "date": "1803-04-30", "event": "Louisiana Purchase" },
+    { "date": "1861-04-12", "event": "Start of the Civil War" },
+    { "date": "1865-04-09", "event": "End of the Civil War" },
+    { "date": "1865-12-06", "event": "13th Amendment Abolishes Slavery" },
+    { "date": "1920-08-18", "event": "19th Amendment Grants Women the Right to Vote" },
+    { "date": "1929-10-29", "event": "Stock Market Crash and Start of the Great Depression" },
+    { "date": "1941-12-07", "event": "Attack on Pearl Harbor" },
+    { "date": "1945-09-02", "event": "End of World War II" },
+    { "date": "1954-05-17", "event": "Brown v. Board of Education Supreme Court Decision" },
+    { "date": "1963-08-28", "event": "March on Washington and Martin Luther King Jr.'s 'I Have a Dream' Speech" },
+    { "date": "1964-07-02", "event": "Civil Rights Act of 1964" },
+    { "date": "1969-07-20", "event": "Apollo 11 Moon Landing" },
+    { "date": "1974-08-09", "event": "Nixon Resigns Over Watergate Scandal" },
+    { "date": "2001-09-11", "event": "9/11 Terrorist Attacks" },
+    { "date": "2008-11-04", "event": "Barack Obama Elected as First African American President" }
+  ]
+  
