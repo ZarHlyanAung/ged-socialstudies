@@ -1,0 +1,20 @@
+[
+    { "date": "1044-01-01", "event": "Anawrahta founds the Pagan Empire" },
+    { "date": "1287-01-01", "event": "Mongol invasion leads to the fall of Pagan" },
+    { "date": "1531-01-01", "event": "Establishment of the Toungoo Dynasty" },
+    { "date": "1752-01-01", "event": "Start of Konbaung Dynasty" },
+    { "date": "1824-03-05", "event": "First Anglo-Burmese War begins" },
+    { "date": "1852-01-01", "event": "Second Anglo-Burmese War begins" },
+    { "date": "1885-11-28", "event": "Third Anglo-Burmese War leads to British annexation of Burma" },
+    { "date": "1937-04-01", "event": "Burma separated from India and becomes a British colony" },
+    { "date": "1942-01-01", "event": "Japanese invasion of Burma during World War II" },
+    { "date": "1945-03-01", "event": "Allied forces recapture Rangoon" },
+    { "date": "1948-01-04", "event": "Burma gains independence from Britain" },
+    { "date": "1962-03-02", "event": "Military coup d'état led by General Ne Win" },
+    { "date": "1988-08-08", "event": "8888 Uprising against military rule" },
+    { "date": "1990-05-27", "event": "National League for Democracy wins general elections" },
+    { "date": "2007-09-01", "event": "Saffron Revolution: Mass protests led by monks" },
+    { "date": "2010-11-07", "event": "First general election under new constitution" },
+    { "date": "2015-11-08", "event": "NLD wins historic general elections" },
+    { "date": "2021-02-01", "event": "Military coup d'état and detention of Aung San Suu Kyi" }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "topic": "Colonial America (1607-1776)",
+        "events": [
+            {"date": "1607", "event": "Jamestown founded"},
+            {"date": "1620", "event": "Pilgrims land at Plymouth"},
+            {"date": "1754-1763", "event": "French and Indian War"},
+            {"date": "1773", "event": "Boston Tea Party"}
+        ]
+    },
+    {
+        "topic": "American Revolution (1775-1783)",
+        "events": [
+            {"date": "1775", "event": "Battles of Lexington and Concord"},
+            {"date": "1776", "event": "Declaration of Independence"},
+            {"date": "1781", "event": "Battle of Yorktown"},
+            {"date": "1783", "event": "Treaty of Paris"}
+        ]
+    },
+    {
+        "topic": "Forming a New Nation (1783-1815)",
+        "events": [
+            {"date": "1787", "event": "Constitutional Convention"},
+            {"date": "1789", "event": "George Washington becomes first President"},
+            {"date": "1803", "event": "Louisiana Purchase"},
+            {"date": "1812-1815", "event": "War of 1812"}
+        ]
+    },
+    {
+        "topic": "Civil War and Reconstruction (1861-1877)",
+        "events": [
+            {"date": "1861", "event": "Civil War begins"},
+            {"date": "1863", "event": "Emancipation Proclamation"},
+            {"date": "1865", "event": "End of Civil War and assassination of Lincoln"},
+            {"date": "1868", "event": "14th Amendment ratified"}
+        ]
+    },
+    {
+        "topic": "Industrialization and Progressive Era (1870-1920)",
+        "events": [
+            {"date": "1890", "event": "Sherman Antitrust Act"},
+            {"date": "1901", "event": "Theodore Roosevelt becomes President"},
+            {"date": "1914-1918", "event": "World War I"},
+            {"date": "1920", "event": "19th Amendment ratified"}
+        ]
+    },
+    {
+        "topic": "Modern America (1920-Present)",
+        "events": [
+            {"date": "1929", "event": "Stock Market Crash"},
+            {"date": "1941-1945", "event": "World War II"},
+            {"date": "1964", "event": "Civil Rights Act passed"},
+            {"date": "2001", "event": "September 11 attacks"}
+        ]
+    },
+    {
+        "topic": "Foundations of American Government",
+        "events": [
+            {"date": "1787", "event": "U.S. Constitution written"},
+            {"date": "1791", "event": "Bill of Rights ratified"},
+            {"date": "1803", "event": "Marbury v. Madison establishes judicial review"},
+            {"date": "1865", "event": "13th Amendment abolishes slavery"}
+        ]
+    },
+    {
+        "topic": "Branches of Government",
+        "events": [
+            {"date": "1789", "event": "First Congress under the Constitution convenes"},
+            {"date": "1801", "event": "John Marshall becomes Chief Justice"},
+            {"date": "1933", "event": "Franklin D. Roosevelt's New Deal legislation"},
+            {"date": "1974", "event": "Watergate Scandal and Nixon's resignation"}
+        ]
+    },
+    {
+        "topic": "Rights and Responsibilities of Citizens",
+        "events": [
+            {"date": "1791", "event": "First 10 Amendments (Bill of Rights) ratified"},
+            {"date": "1868", "event": "14th Amendment grants citizenship and equal protection"},
+            {"date": "1920", "event": "19th Amendment gives women the right to vote"},
+            {"date": "1965", "event": "Voting Rights Act"}
+        ]
+    },
+    {
+        "topic": "Political Systems and Ideologies",
+        "events": [
+            {"date": "1789", "event": "Establishment of the U.S. federal system"},
+            {"date": "1848", "event": "Communist Manifesto published"},
+            {"date": "1917", "event": "Russian Revolution and rise of communism"},
+            {"date": "1949", "event": "NATO established"}
+        ]
+    },
+    {
+        "topic": "Public Policy and Administration",
+        "events": [
+            {"date": "1935", "event": "Social Security Act passed"},
+            {"date": "1965", "event": "Medicare and Medicaid established"},
+            {"date": "1996", "event": "Welfare Reform Act"},
+            {"date": "2010", "event": "Affordable Care Act passed"}
+        ]
+    },
+    {
+        "topic": "Basic Economic Concepts",
+        "events": [
+            {"date": "1776", "event": "Adam Smith's 'The Wealth of Nations' published"},
+            {"date": "1930s", "event": "Great Depression"},
+            {"date": "1944", "event": "Bretton Woods Conference"},
+            {"date": "2008", "event": "Global Financial Crisis"}
+        ]
+    },
+    {
+        "topic": "Microeconomics",
+        "events": [
+            {"date": "1890", "event": "Sherman Antitrust Act"},
+            {"date": "1936", "event": "Keynes publishes 'The General Theory'"},
+            {"date": "1980", "event": "Deregulation of industries in the U.S."},
+            {"date": "2020", "event": "COVID-19 impact on supply and demand"}
+        ]
+    },
+    {
+        "topic": "Macroeconomics",
+        "events": [
+            {"date": "1913", "event": "Federal Reserve Act"},
+            {"date": "1944", "event": "Bretton Woods Agreement"},
+            {"date": "1971", "event": "End of Bretton Woods system"},
+            {"date": "2008", "event": "Federal Reserve's response to the financial crisis"}
+        ]
+    },
+    {
+        "topic": "Global Economics",
+        "events": [
+            {"date": "1947", "event": "GATT established"},
+            {"date": "1995", "event": "World Trade Organization (WTO) created"},
+            {"date": "2001", "event": "China joins WTO"},
+            {"date": "2016", "event": "Brexit referendum"}
+        ]
+    },
+    {
+        "topic": "Physical Geography",
+        "events": [
+            {"date": "1804-1806", "event": "Lewis and Clark Expedition"},
+            {"date": "1872", "event": "Yellowstone becomes first national park"},
+            {"date": "1960", "event": "First successful satellite weather images"},
+            {"date": "2020", "event": "Australia bushfires"}
+        ]
+    },
+    {
+        "topic": "Human Geography",
+        "events": [
+            {"date": "1900s", "event": "Urbanization and the rise of cities"},
+            {"date": "1947", "event": "Partition of India and Pakistan"},
+            {"date": "1980", "event": "China's one-child policy"},
+            {"date": "2015", "event": "European migrant crisis"}
+        ]
+    },
+    {
+        "topic": "Geographic Tools and Skills",
+        "events": [
+            {"date": "1500s", "event": "Mercator projection map created"},
+            {"date": "1854", "event": "John Snow's cholera map"},
+            {"date": "1960", "event": "First successful satellite imagery"},
+            {"date": "2005", "event": "Google Earth launched"}
+        ]
+    },
+    {
+        "topic": "Ancient Civilizations",
+        "events": [
+            {"date": "3000 BCE", "event": "Sumerians develop writing"},
+            {"date": "2700 BCE", "event": "Old Kingdom of Egypt begins"},
+            {"date": "1200 BCE", "event": "Trojan War"},
+            {"date": "800 BCE", "event": "Homer's 'Iliad' and 'Odyssey'"}
+        ]
+    },
+    {
+        "topic": "Middle Ages and Renaissance",
+        "events": [
+            {"date": "476", "event": "Fall of Western Roman Empire"},
+            {"date": "1096-1099", "event": "First Crusade"},
+            {"date": "1347-1351", "event": "Black Death"},
+            {"date": "1517", "event": "Martin Luther's 95 Theses"}
+        ]
+    },
+    {
+        "topic": "Modern Era",
+        "events": [
+            {"date": "1492", "event": "Columbus' voyage to the Americas"},
+            {"date": "1789", "event": "French Revolution begins"},
+            {"date": "1914-1918", "event": "World War I"},
+            {"date": "1939-1945", "event": "World War II"}
+        ]
+    }
+]
